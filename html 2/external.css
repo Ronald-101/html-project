@@ -1,0 +1,15 @@
+body{
+    border: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30;
+    background-color: gray;
+    border: none;
+}
+
+a{
+    font-size: 30;
+    color: blue;
+}
